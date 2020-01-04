@@ -1,3 +1,5 @@
+Original: https://github.com/iirh/Howling-Software-V3/commits?author=iirh
+
 
 My Thread: https://void.to/Thread-Official-Release-Howling-Loader-V3-NEW
 
